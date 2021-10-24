@@ -1,0 +1,19 @@
+2.613,00 TL
+==============================
+Harici Ekran Kartı Yok
+Klavye & Mouse Var
+İşlemci Markası Intel
+Kullanım Amacı Ev & Ofis
+İşlemci Serisi Intel Core i3
+Ekran Var
+Ekran Boyutu 19.5 İnç
+Ekran Kartı Markası Belirtilmemiş
+Durum Yeni
+Bellek Türü DDR3
+Kasa Tipi Belirtilmemiş
+İşletim Sistemi FreeDOS (İşletim Sistemi Yok)
+Bellek (RAM) 8 GB
+Sabit Disk (SSD) Boyutu 240 GB
+Model Bulamadım
+İşlemci Nesli 2. Nesil
+Marka Bulamadım
